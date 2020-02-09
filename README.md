@@ -1,8 +1,10 @@
-# php-string-tags [![CircleCI](https://circleci.com/gh/Rafaeldsb/php-string-tags.svg?style=svg)](https://circleci.com/gh/Rafaeldsb/php-string-tags)
+# php-string-tags
 
 [![Total Downloads](https://img.shields.io/packagist/dt/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
 [![Latest Stable Version](https://img.shields.io/packagist/v/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/00857d9397734c85a190e20e9f756469)](https://www.codacy.com/manual/Rafaeldsb/php-string-tags?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rafaeldsb/php-string-tags&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/00857d9397734c85a190e20e9f756469)](https://www.codacy.com/manual/Rafaeldsb/php-string-tags?utm_source=github.com&utm_medium=referral&utm_content=Rafaeldsb/php-string-tags&utm_campaign=Badge_Coverage)
+[![CircleCI](https://circleci.com/gh/Rafaeldsb/php-string-tags.svg?style=svg)](https://circleci.com/gh/Rafaeldsb/php-string-tags)
 
 This package is a helper for tags in strings 
 
