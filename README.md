@@ -1,6 +1,5 @@
 # php-string-tags [![CircleCI](https://circleci.com/gh/Rafaeldsb/php-string-tags.svg?style=svg)](https://circleci.com/gh/Rafaeldsb/php-string-tags)
 
-
 [![Total Downloads](https://img.shields.io/packagist/dt/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
 [![Latest Stable Version](https://img.shields.io/packagist/v/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
 
@@ -8,7 +7,7 @@ This package is a helper for tags in strings
 
 ## Installation
 
-```
+```bash
 composer require rafaeldsb/php-string-tags
 ```
 
