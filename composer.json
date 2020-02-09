@@ -1,0 +1,25 @@
+{
+    "name": "rafaeldsb/php-string-tags",
+    "description": "helpers who assist in string tags.",
+    "keywords": ["tags", "tag", "string", "helper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael dos Santos Bernardo",
+            "email": "rafael.dsbernardo@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=7.3"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "^9",
+        "phpunit/php-code-coverage": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RafaelDsb\\Helpers\\": "src/"
+        }
+    }
+}
