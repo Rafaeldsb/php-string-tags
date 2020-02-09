@@ -2,6 +2,7 @@
 
 [![Total Downloads](https://img.shields.io/packagist/dt/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
 [![Latest Stable Version](https://img.shields.io/packagist/v/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/00857d9397734c85a190e20e9f756469)](https://www.codacy.com/manual/Rafaeldsb/php-string-tags?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rafaeldsb/php-string-tags&amp;utm_campaign=Badge_Grade)
 
 This package is a helper for tags in strings 
 
