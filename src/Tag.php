@@ -40,11 +40,9 @@ class Tag {
      */
     public static function replaceTags(string $string, array $tags, string $leftCharTag = '{{', string $rightCharTag = '}}'): string {
 
-        $lCharTag = self::normalizeKeyChar($leftCharTag);
-        $rCharTag = self::normalizeKeyChar($rightCharTag);
-
         foreach ($tags as $key => $value) {
-            $string = preg_replace("~{$lCharTag}{$key}{$rCharTag}~", $value, $string);
+            $tag = $leftCharTag . $key . $rightCharTag;
+            $string = strtr($string, [$tag => $value]);
         }
 
         return $string;
