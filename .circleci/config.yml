@@ -27,3 +27,6 @@ jobs:
 
       # run tests with phpunit
       - run: ./vendor/bin/phpunit --testdox
+
+      # upload coverage to codacy
+      - run: ./vendor/bin/codacycoverage clover tests/_reports/logs/clover.xml
