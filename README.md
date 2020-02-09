@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc99b32fa0614b85a7d0707f79a873f2)](https://app.codacy.com/manual/Rafaeldsb/php-string-tags?utm_source=github.com&utm_medium=referral&utm_content=Rafaeldsb/php-string-tags&utm_campaign=Badge_Grade_Dashboard)
 # php-string-tags [![CircleCI](https://circleci.com/gh/Rafaeldsb/php-string-tags.svg?style=svg)](https://circleci.com/gh/Rafaeldsb/php-string-tags)
 
 [![Total Downloads](https://img.shields.io/packagist/dt/rafaeldsb/php-string-tags.svg)](https://packagist.org/packages/rafaeldsb/php-string-tags)
